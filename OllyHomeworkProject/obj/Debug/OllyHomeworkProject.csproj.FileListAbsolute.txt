@@ -4,3 +4,11 @@ E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\Olly
 E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\OllyHomeworkProject.pdb
 E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\obj\Debug\OllyHomeworkProject.exe
 E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\obj\Debug\OllyHomeworkProject.pdb
+C:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\OllyHomeworkProject.exe.config
+C:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\obj\Debug\OllyHomeworkProject.exe
+C:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\obj\Debug\OllyHomeworkProject.pdb
+C:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\obj\Debug\OllyHomeworkProject.csprojResolveAssemblyReference.cache
+C:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\OllyHomeworkProject.exe
+C:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\OllyHomeworkProject.pdb
+C:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\BLL.dll
+C:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\BLL.pdb

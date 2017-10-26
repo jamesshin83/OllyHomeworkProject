@@ -1,4 +1,5 @@
 ﻿using System;
+using BLL.Common;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Model
 {
-    class Item
+    public class Item
     {
         public Random R { get; private set; }
         public string Name { get; protected set; }

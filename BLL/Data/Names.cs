@@ -4,51 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OllyHomeworkProject.Util
+namespace BLL.Data
 {
-    static class Generator
+    public static class Names
     {
-        public static string GetARandomItem(Random r)
-        {
-            return items[r.Next(1, items.Length)];
-        }
-
-        public static string GetARandomName(Random r)
-        {
-            string name;
-            switch (r.Next(1, 2))
-            {
-                case 1:
-                    name = maleNames[r.Next(1, maleNames.Length)];
-                    break;
-                case 2:
-                    name = femaleNames[r.Next(1, femaleNames.Length)];
-                    break;
-                default:
-                    name = maleNames[r.Next(1, maleNames.Length)];
-                    break;
-            }
-
-            return name;
-        }
-
-        static string[] items = new string[]
-        {
-            "Almonds",
-"Apple",
-"Avocado",
-"Basil",
-"Bananas",
-"Beans",
-"Butter beans",
-"Beetroot",
-"Broccoli",
-"Broccolini",
-"Brown onions",
-"Brussels sprouts"
-        };
-
-        static string[] maleNames = new string[] { "Noah",
+        public static string[] MaleNameList = new string[] { "Noah",
 "Liam",
 "William",
 "Mason",
@@ -1050,7 +1010,7 @@ namespace OllyHomeworkProject.Util
 "Jonathon",
 };
 
-        static string[] femaleNames = new string[] {"Emma",
+        public static string[] FemaleNameList = new string[] {"Emma",
 "Olivia",
 "Ava",
 "Sophia",

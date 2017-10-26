@@ -1,0 +1,5 @@
+C:\Projects\SmallProjects\OllyHomeworkProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Projects\SmallProjects\OllyHomeworkProject\BLL\bin\Debug\BLL.dll
+C:\Projects\SmallProjects\OllyHomeworkProject\BLL\bin\Debug\BLL.pdb
+C:\Projects\SmallProjects\OllyHomeworkProject\BLL\obj\Debug\BLL.dll
+C:\Projects\SmallProjects\OllyHomeworkProject\BLL\obj\Debug\BLL.pdb
