@@ -1,0 +1,6 @@
+E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\OllyHomeworkProject.exe.config
+E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\obj\Debug\OllyHomeworkProject.csprojResolveAssemblyReference.cache
+E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\OllyHomeworkProject.exe
+E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\bin\Debug\OllyHomeworkProject.pdb
+E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\obj\Debug\OllyHomeworkProject.exe
+E:\Projects\SmallProjects\OllyHomeworkProject\OllyHomeworkProject\obj\Debug\OllyHomeworkProject.pdb
